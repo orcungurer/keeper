@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import Heading from './Heading';
-import Footer from './Footer';
+// import Footer from './Footer';
 import Note from './Note';
 import CreateArea from './CreateArea';
 import Grid from '@mui/material/Grid';
